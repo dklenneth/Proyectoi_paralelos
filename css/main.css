@@ -44,6 +44,9 @@ nav{
     color: white;
     text-decoration: none;   
 }
+.BotonMenuActivo{
+    background-color: rgb(62, 62, 62);
+}
 hgroup{
     height: auto;
     padding: 20px 0;
