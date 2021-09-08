@@ -1,34 +1,42 @@
-#contenedor_registro{
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
     width: 1200px;
     height: auto;
     margin: 0.5em;
     padding: 0.5em;
 }
-#header_registro{
-
-}
-#navegacion_registro{
-        
-}
-#contenido_registro{
+#contenido{
     height: 100%;
     border-style: solid;
     border-radius: 1em;
     padding: 20px;    
 }
-#seccion_registro{
+#seccion{
     height: 50%;    
 }
 .campoTexto{
     height: 17px;
-    width: 200px;    
+    width: 200px;
+    margin: 3px 10px;
+    padding: 3px;
+    text-align: left;
+    font-size: 12px;    
 }
-.camp1{margin-left: 4.5em;}
-.camp3{margin-left: 5.1em;}
-.camp4{margin-left: 6.8em;}
-.camp5{margin-left: 7.3em;}
-.camp6{margin-left: 6.2em;}
-.camp7{margin-left: 6.3em;}
+.campDoc{margin-left: 49px;}
+.campNom{margin-left: 61px;}
+.campApe{margin-left: 62px;}
+.campCorr{margin-left: 80px;}
+.campCla1{margin-left: 88px;}
+.campCla2{margin-left: 88px;}
+.campFecha{margin-left: 10px;}
 .BotonRegistro{
-    
+    padding: 8px 15px;
+    border-radius: 20px;
+    border: none;
+    background-color: purple;
+    cursor: pointer;
 }
+.BotonRegistro:hover{background-color: lightgreen;}
