@@ -2,37 +2,3 @@
     margin: 0;
     padding: 0;
 }
-#contenedor_registro{
-    width: 1200px;
-    height: auto;
-    margin: 0.5em;
-    padding: 0.5em;
-}
-#header_registro{
-
-}
-#navegacion_registro{
-        
-}
-#contenido_registro{
-    height: 100%;
-    border-style: solid;
-    border-radius: 1em;
-    padding: 20px;    
-}
-#seccion_registro{
-    height: 50%;    
-}
-.campoTexto{
-    height: 17px;
-    width: 200px;    
-}
-.camp1{margin-left: 4.5em;}
-.camp3{margin-left: 5.1em;}
-.camp4{margin-left: 6.8em;}
-.camp5{margin-left: 7.3em;}
-.camp6{margin-left: 6.2em;}
-.camp7{margin-left: 6.3em;}
-.BotonRegistro{
-    
-}
