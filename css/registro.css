@@ -25,10 +25,10 @@
     text-align: left;
     font-size: 12px;    
 }
-.campDoc{margin-left: 49px;}
-.campNom{margin-left: 61px;}
-.campApe{margin-left: 62px;}
-.campCorr{margin-left: 80px;}
+.campDoc{margin-left: 52px;}
+.campNom{margin-left: 63px;}
+.campApe{margin-left: 64px;}
+.campCorr{margin-left: 81px;}
 .campCla1{margin-left: 88px;}
 .campCla2{margin-left: 88px;}
 .campFecha{margin-left: 10px;}
@@ -36,7 +36,8 @@
     padding: 8px 15px;
     border-radius: 20px;
     border: none;
-    background-color: purple;
+    background-color: #1a293d;
     cursor: pointer;
+    color: white;
 }
-.BotonRegistro:hover{background-color: lightgreen;}
+.BotonRegistro:hover{background-color: #661b77;}
