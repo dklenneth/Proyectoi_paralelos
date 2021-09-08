@@ -25,12 +25,12 @@
     text-align: left;
     font-size: 12px;    
 }
-.campDoc{margin-left: 52px;}
-.campNom{margin-left: 63px;}
-.campApe{margin-left: 64px;}
-.campCorr{margin-left: 81px;}
-.campCla1{margin-left: 88px;}
-.campCla2{margin-left: 88px;}
+.campDoc{margin-left: 59px;}
+.campNom{margin-left: 72px;}
+.campApe{margin-left: 75px;}
+.campCorr{margin-left: 92px;}
+.campCla1{margin-left: 100px;}
+.campCla2{margin-left: 100px;}
 .campFecha{margin-left: 10px;}
 .BotonRegistro{
     padding: 8px 15px;
